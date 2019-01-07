@@ -1,0 +1,2 @@
+# [盈利计划](https://leetcode-cn.com/problems/profitable-schemes)
+

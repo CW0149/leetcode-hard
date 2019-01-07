@@ -1,0 +1,2 @@
+# [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum)
+
